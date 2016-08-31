@@ -22,6 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://flyingleviathan.com" # the base hostname & protocol for your site
 twitter_username: kohgpat
 github_username:  kohgpat
+author: Nikolay Burlov
 
 # Build settings
 markdown: kramdown
