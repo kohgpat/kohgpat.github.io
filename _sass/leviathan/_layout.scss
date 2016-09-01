@@ -184,6 +184,10 @@
 .post-link {
   display: block;
   font-size: 24px;
+
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 /* Posts */
